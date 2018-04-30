@@ -48,7 +48,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Erick de la Barrera** - *Lab Leader * - [LabPage](http://agro.mx/delabarrera/)
+* **Erick de la Barrera** - *Lab Leader* - [LabPage](http://agro.mx/delabarrera/)
 * **Germán Ruelas** - *Lab Member* - [GitHub](https://github.com/lgruelas)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
