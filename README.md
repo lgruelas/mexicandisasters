@@ -1,4 +1,5 @@
-![Alt text](logo.png?raw=true "Title") # Mexican disasters visor
+![Alt text](logo.png?raw=true "Title")
+ # Mexican disasters visor
 
 Source code of the consultant software (not yet) implemented in agro.mx to consult the last 1000 years of mexican disasters.
 
@@ -48,7 +49,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Erick de la Barrera** - *Lab Leader* - [LabPage](http://agro.mx/delabarrera/)
+* **Erick de la Barrera** - *Lab Leader, Product Owner* - [LabPage](http://agro.mx/delabarrera/)
 * **Germán Ruelas** - *Lab Member* - [GitHub](https://github.com/lgruelas)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
