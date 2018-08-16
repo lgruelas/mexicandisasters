@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/lgruelas/mexicandisasters.svg?branch=master)](https://travis-ci.org/lgruelas/mexicandisasters)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lgruelas/mexicandisasters/blob/master/LICENSE)
+
 <img align="left" width="36" height="36" src="assets/imgs/android-icon-36x36.png">
 
 
