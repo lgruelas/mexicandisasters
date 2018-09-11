@@ -1,18 +1,10 @@
-[![Build Status](https://travis-ci.org/lgruelas/mexicandisasters.svg?branch=master)](https://travis-ci.org/lgruelas/mexicandisasters)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lgruelas/mexicandisasters/blob/master/LICENSE)
-
-<img align="left" width="36" height="36" src="assets/imgs/android-icon-36x36.png">
+<img align="left" width="100" height="100" src="logo.png">
 
 
 
 # Mexican disasters visor
 
 Source code of the consultant software (not yet) implemented in agro.mx to consult the last 1000 years of mexican disasters.
-
-### This page
-
-This is the master branch, the current work is in dev branch, here you will only see a bootstrap template to wait. You can get it from here:
-https://startbootstrap.com/template-overviews/coming-soon/
 
 ## Getting Started
 
