@@ -16,9 +16,10 @@ Specific for fedora but is pretty easy to follow along in any distribution.
 
 Linux
 Python 2.7
-Flask microframework
-PyMysql
+Flask
 MariaDB
+npm
+node.js
 
 Python and dependencies:
 ```
@@ -36,14 +37,26 @@ systemctl start mariadb
 mysql_secure_installation
 ```
 
+React
+```
+sudo dnf -y install npm
+sudo dnf -y install nodejs
+```
+
 ### Installing
 
 
 ## Built With
 
+### Backend
 * [Python](https://www.python.org/downloads/release/python-2714/)
 * [Flask](http://flask.pocoo.org/docs/0.12/) - Web Framework
 * [MariaDB](https://downloads.mariadb.org/mariadb/10.2.14/) - DBMS
+
+### FrontEnd
+ * [React](https://reactjs.org/)
+ * [Typescript](https://www.typescriptlang.org/)
+ * [React-Bootstrap](https://react-bootstrap.github.io/)
 
 
 ## Versioning
