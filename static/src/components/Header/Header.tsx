@@ -1,5 +1,7 @@
 import React from 'react';
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
+import { Navbar } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 export class Header extends React.Component {
 
@@ -8,14 +10,14 @@ export class Header extends React.Component {
             <Navbar inverse staticTop style={{boxShadow:'0 0 10px rgba(0,0,0,0.3)'}}>
                 <Navbar.Header>
                     <Navbar.Brand>
-                        Mexican Disasters agro.mx
+                        Mexican Disasters Viewer
                     </Navbar.Brand>      
                 </Navbar.Header>
-                <Nav>
-                    <NavItem>
-                        hola
-                    </NavItem>
-                </Nav>
+                <Navbar.Text pullRight>
+                    <Navbar.Link href='https://github.com/lgruelas/mexicandisasters'>
+                        <FontAwesomeIcon icon={faGithub} size="lg"/> Source Code
+                    </Navbar.Link>
+                </Navbar.Text>
             </Navbar>
         );
     }
