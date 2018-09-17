@@ -7,7 +7,7 @@ import { CenterView } from './../Functions';
 export class Footer extends React.Component {
     render() {
         return (
-            <footer className='blue page-footer' style={{padding:20}}>
+            <footer className='blue page-footer' style={{padding:20, right:0, left:0, bottom:0, position:"absolute"}}>
                 <Grid>
                     <Row>
                         <Col md={4}></Col>
