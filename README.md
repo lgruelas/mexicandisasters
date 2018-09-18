@@ -11,7 +11,7 @@ Source code of the consultant software (not yet) implemented in agro.mx to consu
 
 ### This page
 
-This is the master branch, the current work is in dev branch, here you will only see a bootstrap template to wait. You can get it from here:
+This is the gh-pages branch, the current work is in master branch, here you will only see a bootstrap template to wait. You can get it from here:
 https://startbootstrap.com/template-overviews/coming-soon/
 
 ## Getting Started
