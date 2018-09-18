@@ -1,3 +1,8 @@
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![license](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://github.com/lgruelas/Python-DataScience-Snippets/blob/master/LICENSE)
+[![Build Status](https://api.travis-ci.org/lgruelas/mexicandisasters.svg?branch=master)](https://travis-ci.org/lgruelas/mexicandisasters)
+
+
 <img align="left" width="100" height="100" src="logo.png">
 
 
